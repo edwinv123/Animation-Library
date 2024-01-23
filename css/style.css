@@ -1,6 +1,6 @@
 .set {
-	-webkit-animation: rotate-center 2s ease-in-out infinite both;
-	        animation: rotate-center 2s ease-in-out infinite both;
+	-webkit-animation: rotate-center 5s ease-in-out infinite both;
+	        animation: rotate-center 5s ease-in-out infinite both;
 }
 
 
